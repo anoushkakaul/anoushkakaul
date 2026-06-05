@@ -1,25 +1,23 @@
 # Hi, I'm Anoushka Kaul 👋
 
-🎓 B.Tech CSE (Data Science) Student
+AI Engineer focused on Generative AI, Agentic AI, Retrieval-Augmented Generation (RAG), and Multi-Agent Systems.
 
-💡 Interested in:
+🎓 B.Tech CSE (AI/ML & Data Science)
+
+🔹 Built enterprise-grade RAG systems with FAISS and LLMs  
+🔹 Developed multi-agent memory architectures inspired by MIRIX  
+🔹 Worked on Agent-to-Agent (A2A) communication and orchestration frameworks  
+🔹 Experienced with LangGraph, LangChain, PyTorch, TensorFlow, and OpenCV  
+
+### Core Areas
 - Generative AI
 - Agentic AI
-- Machine Learning
+- RAG Systems
+- Memory Architectures
+- LLM Engineering
 - Computer Vision
 
-🛠️ Tech Stack:
-- Python
-- TensorFlow
-- PyTorch
-- OpenCV
-- LangChain
-- LangGraph
+### Tech Stack
+Python • LangGraph • LangChain • FAISS • PyTorch • TensorFlow • OpenCV • HuggingFace • Gradio
 
-🚀 Currently Exploring:
-- Multi-Agent Systems
-- LLM Evaluation
-- AI Safety
-- RAG Pipelines
-
-📫 Connect with me on LinkedIn
+📫 Open to opportunities in AI Engineering, Machine Learning, and Generative AI.
